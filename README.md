@@ -6,9 +6,9 @@ Author-Prity Choudhary
 Some Python practice examples to-do.
 _________________________________________________________________________________________________
 <h1>Basic Python Programs</h1>
-  1. Add two numbers\
-  2. Maximum of two numbers\
-  3. Factorial of a number\
+  1. Add two numbers<br>
+  2. Maximum of two numbers<br>
+  3. Factorial of a number<br>
   4. Find simple interest\
   5. Find compound interest\
   6. Check Armstrong Number\

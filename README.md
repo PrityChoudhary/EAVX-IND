@@ -114,6 +114,48 @@ ________________________________________________________________________________
   106. Print anagrams together using List and Dictionary<br>
   107. K'th Non -repeating character using list coomprehension and orderedDict <br>
   108. Check if binary representations of two numbers are anagrams <br>
-  109. Counter to find the size of largest subset of 
+  109. Counter to find the size of largest subset of anagram words <br>
+  110. Remove all duplicates words from a given sentence<br>
+  111. Dictionary to find the mirror characters in a string <br>
+  112. Counting the frequencies in a list using dictionary<br>
+  113. Convert a list of tuples into dictionary<br>
+  114. Counter and dictionaries intersection<br>
+  115. Dictionary,set and counter to check if frequencies can become same<br>
+  116. Scraping and finding ordered words in a dictionary<br>
+  117. Possible words using given characters<br>
+  118. Keys associated with values in dictionary<br>
+  119. Find the size of a tuple<br>
+  120. Maximum and minimum K elements in Tuple<br>
+  121. Create a list of tuples from given list having number and its cube in each tuple<br>
+  123. Adding Tuple to list and vice versa<br>
+  124. Closest pair to kth index element in tuple<br>
+  125. Join tuples if similar initial element<br>
+  126. Extract digits from tuple list<br>
+  127. All pair combinations of 2 tuples<br>
+  128. Remove tuples of length k<br>
+  129. Sort a list of tuples by second item<br>
+  130. Order tuples using external list<br>
+  131. Flatten tuple of list to tuple<br>
+  132. Convert nested tuple to custom key dictionary<br>
+  133. Check if string contain only defined characters using regex<br>
+  134. Count uppercase,lowercase,special character and numeric values using regex<br>
+  135. Find the most occurring number in a string using regex<br>
+  136. Regex to extract maximum numeric value from a string<br>
+  137. Program to put spaces between words starting with capital letters using regex<br>
+  138. Check whether a string starts and ends with the same character or not<br>
+  139. Regex to find sequences of one uppercase letter followed by lowercase letter<br>
+  140. Remove duplicate words from sentence<br>
+  141. Remove all characters except letters and numbers<br>
+  142. Accept string ending with alphanumeric character<br>
+  143. Accept string starting with vowel<br>
+  144. Check if a string starts with a substring using regex<br>
+  145. Check if an URL is valid or not using regular expression<br>
+  146. Parsing and processing url-regex<br>
+  147. Validate an ip address using regex<br>
+  148. Check if email address valid or not<br>
+  149. Extract ip address from file<br>
+  150. Categorize password as strong or weak using regex<br>
+  
+  
   
 

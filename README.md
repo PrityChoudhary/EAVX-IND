@@ -6,11 +6,11 @@ Author-Prity Choudhary
 Some Python practice examples to-do.
 _________________________________________________________________________________________________
 <h1>Basic Python Programs</h1>
-  1. Add two numbers\
-  2. Maximum of two numbers\
-  3. Factorial of a number
-  4. Find simple interest
-  5. Find compound interest
+  1. Add two numbers  
+  2. Maximum of two numbers  
+  3. Factorial of a number  
+  4. Find simple interest  
+  5. Find compound interest  
   6. Check Armstrong Number
   7. Find area of a circle
   8. Print all Prime numbers in an interval
@@ -106,4 +106,5 @@ ________________________________________________________________________________
   98. Insertion at the begiinning in OrderedDict
   99. Check order of character in string using OrderedDict()
   100. Dictionary and counter to find winner of election
+  
 

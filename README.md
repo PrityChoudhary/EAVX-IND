@@ -109,6 +109,11 @@ ________________________________________________________________________________
   101. Append dictionary key and values list<br>
   102. Sort Python dictionary by key or value<br>
   103. Sort dictionary key and values list <br>
-  104.
+  104. Handling missing keys in dictionaries<br>
+  105. Dictionary with keys having multiple inputs<br>
+  106. Print anagrams together using List and Dictionary<br>
+  107. K'th Non -repeating character using list coomprehension and orderedDict <br>
+  108. Check if binary representations of two numbers are anagrams <br>
+  109. Counter to find the size of largest subset of 
   
 

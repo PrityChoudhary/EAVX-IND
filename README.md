@@ -106,5 +106,9 @@ ________________________________________________________________________________
   98. Insertion at the begiinning in OrderedDict\
   99. Check order of character in string using OrderedDict()\
   100. Dictionary and counter to find winner of election\
+  101. Append dictionary key and values list<br>
+  102. Sort Python dictionary by key or value<br>
+  103. Sort dictionary key and values list <br>
+  104.
   
 

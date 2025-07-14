@@ -155,7 +155,58 @@ ________________________________________________________________________________
   148. Check if email address valid or not<br>
   149. Extract ip address from file<br>
   150. Categorize password as strong or weak using regex<br>
-  
-  
+  ____________________________________________________________________________________________________________________________
+  <h1> Advance Python Programs</h1>
+  1. Binary search<br>
+  2. Linear search<br>
+  3. Insertion sort<br>
+  4. Recursive insertion sort<br>
+  5. Quick sort<br>
+  6. Selection sort<br>
+  7. Bubble sort<br>
+  8. Merge sort<br>
+  9. Heap sort<br>
+  10. Counting sort<br>
+  11. Shell sort<br>
+  12. Topological sorting<br>
+  13. Radix sort<br>
+  14. Binary insertion sort<br>
+  15. Bitonic sort<br>
+  16. Comb sort<br>
+  17. Pigeonhole sort<br>
+  18. Cocktail sort<br>
+  19. Gnome sort<br>
+  20. Odd-even sort/brick sort<br>
+  21. Bogo sort/ permutation sort<br>
+  22. Cycle sort<br>
+  23. Stooge sort<br>
+  24. Check if all digits of a number divide it<br>
+  25. Priint an inverted Star pattern<br>
+  26. Print double sided stair-case pattern<br>
+  27. Print with your own font<br>
+  28. Get current time<br>
+  29. Get current date and time<br>
+  30. Find yesterday's,today's and tomorrow's date<br>
+  31. Convert time from 12 hour to 24 hour format<br>
+  32. Find difference between current time and given time<br>
+  33. Create a lap timer<br>
+  34. Convert date string to timestamp<br>
+  35. Convert timestamp string to datetime object<br>
+  36. Find number of times everyday occurs in a year<br>
+  37. Program for Coin Change<br>
+  38. Program for Tower of Hanoi<br>
+  39. Sieve of Eratosthenes<br>
+  40. Basic/extended Euclidean algorithms<br>
+  41. Maximum height when coins are arranged in a triangle<br>
+  42. Print matrix in Z form<br>
+  43. Check if a triangle of positive area is possible with the given angles<br>
+  44. Number of solutions to modular equations<br>
+  45. Legendre's conjecture<br>
+  46. Difference between sums of odd and even digits<br>
+  47. Find sum of even/odd factors of a number<br>
+  48. Programs to print pattern 'A' to 'Z'-capital letters<br>
+  49. Programs to print pattern '1' to '9'-digits<br>
+  50. Programs to print pattern 'a' to 'z'-small letters<br>
+  ________________________________________________________________________________________________________________________Happy Coding___________________________________________________________________________________________________________________________
   
 

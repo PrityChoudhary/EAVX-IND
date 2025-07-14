@@ -9,7 +9,7 @@ ________________________________________________________________________________
   1. Add two numbers<br>
   2. Maximum of two numbers<br>
   3. Factorial of a number<br>
-  4. Find simple interest\
+  4. Find simple interest<br>
   5. Find compound interest\
   6. Check Armstrong Number\
   7. Find area of a circle\

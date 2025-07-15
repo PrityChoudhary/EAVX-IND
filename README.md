@@ -1,7 +1,7 @@
 # EAVX-IND
 This is for demo purposes and for SOP content.
 <br>
-Author-Prity Choudhary
+Author-Prity Choudhary EAVX
 <br>
 Some Python practice examples to-do.
 _________________________________________________________________________________________________
